@@ -1,0 +1,8 @@
+C:\Users\Emine Hatun Dinçer\source\repos\kasım21nesne\bin\Debug\kasım21nesne.exe.config
+C:\Users\Emine Hatun Dinçer\source\repos\kasım21nesne\bin\Debug\kasım21nesne.exe
+C:\Users\Emine Hatun Dinçer\source\repos\kasım21nesne\bin\Debug\kasım21nesne.pdb
+C:\Users\Emine Hatun Dinçer\source\repos\kasım21nesne\obj\Debug\kasım21nesne.csproj.AssemblyReference.cache
+C:\Users\Emine Hatun Dinçer\source\repos\kasım21nesne\obj\Debug\kasım21nesne.csproj.CoreCompileInputs.cache
+C:\Users\Emine Hatun Dinçer\source\repos\kasım21nesne\obj\Debug\kasım21nesne.exe
+C:\Users\Emine Hatun Dinçer\source\repos\kasım21nesne\obj\Debug\kasım21nesne.pdb
+C:\Users\Emine Hatun Dinçer\source\repos\kasım21nesne\obj\Debug\kasım21nesne.exe.config

@@ -1,0 +1,8 @@
+C:\Users\Emine Hatun Dinçer\source\repos\nesnegiris\obj\Debug\nesnegiris.csproj.AssemblyReference.cache
+C:\Users\Emine Hatun Dinçer\source\repos\nesnegiris\obj\Debug\nesnegiris.csproj.CoreCompileInputs.cache
+C:\Users\Emine Hatun Dinçer\source\repos\nesnegiris\bin\Debug\nesnegiris.exe.config
+C:\Users\Emine Hatun Dinçer\source\repos\nesnegiris\bin\Debug\nesnegiris.exe
+C:\Users\Emine Hatun Dinçer\source\repos\nesnegiris\bin\Debug\nesnegiris.pdb
+C:\Users\Emine Hatun Dinçer\source\repos\nesnegiris\obj\Debug\nesnegiris.exe
+C:\Users\Emine Hatun Dinçer\source\repos\nesnegiris\obj\Debug\nesnegiris.pdb
+C:\Users\Emine Hatun Dinçer\source\repos\nesnegiris\obj\Debug\nesnegiris.exe.config

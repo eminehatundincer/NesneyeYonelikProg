@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\NesneyeYonelikProgramlama\\ekimotuzbir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CED76A57-B483-483A-A4EF-99293CD32A6A}|otuzbirekim.csproj|C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\NesneyeYonelikProgramlama\\ekimotuzbir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED76A57-B483-483A-A4EF-99293CD32A6A}|otuzbirekim.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED76A57-B483-483A-A4EF-99293CD32A6A}|otuzbirekim.csproj|c:\\users\\emine hatun din\u00E7er\\source\\repos\\nesneyeyonelikprogramlama\\ekimotuzbir\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED76A57-B483-483A-A4EF-99293CD32A6A}|otuzbirekim.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\NesneyeYonelikProgramlama\\ekimotuzbir\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\NesneyeYonelikProgramlama\\ekimotuzbir\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T21:29:39.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\NesneyeYonelikProgramlama\\ekimotuzbir\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\NesneyeYonelikProgramlama\\ekimotuzbir\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:07:16.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

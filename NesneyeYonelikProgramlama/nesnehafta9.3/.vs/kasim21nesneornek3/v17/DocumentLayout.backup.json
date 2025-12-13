@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kasim21nesneornek3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9623C1-D751-4A57-ACE6-E895A698BF2E}|kasim21nesneornek3.csproj|c:\\users\\emine hatun din\u00E7er\\source\\repos\\kasim21nesneornek3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9623C1-D751-4A57-ACE6-E895A698BF2E}|kasim21nesneornek3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9623C1-D751-4A57-ACE6-E895A698BF2E}|kasim21nesneornek3.csproj|c:\\users\\emine hatun din\u00E7er\\source\\repos\\kasim21nesneornek3\\universite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9623C1-D751-4A57-ACE6-E895A698BF2E}|kasim21nesneornek3.csproj|solutionrelative:universite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9623C1-D751-4A57-ACE6-E895A698BF2E}|kasim21nesneornek3.csproj|c:\\users\\emine hatun din\u00E7er\\source\\repos\\kasim21nesneornek3\\fakulte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9623C1-D751-4A57-ACE6-E895A698BF2E}|kasim21nesneornek3.csproj|solutionrelative:fakulte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9623C1-D751-4A57-ACE6-E895A698BF2E}|kasim21nesneornek3.csproj|c:\\users\\emine hatun din\u00E7er\\source\\repos\\kasim21nesneornek3\\bolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9623C1-D751-4A57-ACE6-E895A698BF2E}|kasim21nesneornek3.csproj|solutionrelative:bolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fakulte.cs",
+              "DocumentMoniker": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kasim21nesneornek3\\fakulte.cs",
+              "RelativeDocumentMoniker": "fakulte.cs",
+              "ToolTip": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kasim21nesneornek3\\fakulte.cs",
+              "RelativeToolTip": "fakulte.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:25:16.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bolum.cs",
+              "DocumentMoniker": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kasim21nesneornek3\\bolum.cs",
+              "RelativeDocumentMoniker": "bolum.cs",
+              "ToolTip": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kasim21nesneornek3\\bolum.cs",
+              "RelativeToolTip": "bolum.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:25:27.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "universite.cs",
+              "DocumentMoniker": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kasim21nesneornek3\\universite.cs",
+              "RelativeDocumentMoniker": "universite.cs",
+              "ToolTip": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kasim21nesneornek3\\universite.cs",
+              "RelativeToolTip": "universite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:25:03.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kasim21nesneornek3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kasim21nesneornek3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:18:14.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

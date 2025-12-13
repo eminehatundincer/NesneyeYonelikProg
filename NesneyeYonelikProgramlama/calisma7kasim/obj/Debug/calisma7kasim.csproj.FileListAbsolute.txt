@@ -1,0 +1,8 @@
+C:\Users\Emine Hatun Dinçer\source\repos\calisma7kasim\bin\Debug\calisma7kasim.exe.config
+C:\Users\Emine Hatun Dinçer\source\repos\calisma7kasim\bin\Debug\calisma7kasim.exe
+C:\Users\Emine Hatun Dinçer\source\repos\calisma7kasim\bin\Debug\calisma7kasim.pdb
+C:\Users\Emine Hatun Dinçer\source\repos\calisma7kasim\obj\Debug\calisma7kasim.csproj.AssemblyReference.cache
+C:\Users\Emine Hatun Dinçer\source\repos\calisma7kasim\obj\Debug\calisma7kasim.csproj.CoreCompileInputs.cache
+C:\Users\Emine Hatun Dinçer\source\repos\calisma7kasim\obj\Debug\calisma7kasim.exe
+C:\Users\Emine Hatun Dinçer\source\repos\calisma7kasim\obj\Debug\calisma7kasim.pdb
+C:\Users\Emine Hatun Dinçer\source\repos\calisma7kasim\obj\Debug\calisma7kasim.exe.config

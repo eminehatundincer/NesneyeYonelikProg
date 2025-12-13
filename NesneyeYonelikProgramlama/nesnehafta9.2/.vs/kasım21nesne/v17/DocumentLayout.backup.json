@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kas\u0131m21nesne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C2FD96-8BDA-44B0-BEB4-1B37EBAEEA91}|kas\u0131m21nesne.csproj|c:\\users\\emine hatun din\u00E7er\\source\\repos\\kas\u0131m21nesne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C2FD96-8BDA-44B0-BEB4-1B37EBAEEA91}|kas\u0131m21nesne.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C2FD96-8BDA-44B0-BEB4-1B37EBAEEA91}|kas\u0131m21nesne.csproj|c:\\users\\emine hatun din\u00E7er\\source\\repos\\kas\u0131m21nesne\\arac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C2FD96-8BDA-44B0-BEB4-1B37EBAEEA91}|kas\u0131m21nesne.csproj|solutionrelative:arac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C2FD96-8BDA-44B0-BEB4-1B37EBAEEA91}|kas\u0131m21nesne.csproj|c:\\users\\emine hatun din\u00E7er\\source\\repos\\kas\u0131m21nesne\\elektrikliotomobil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C2FD96-8BDA-44B0-BEB4-1B37EBAEEA91}|kas\u0131m21nesne.csproj|solutionrelative:elektrikliotomobil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C2FD96-8BDA-44B0-BEB4-1B37EBAEEA91}|kas\u0131m21nesne.csproj|c:\\users\\emine hatun din\u00E7er\\source\\repos\\kas\u0131m21nesne\\otomobil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C2FD96-8BDA-44B0-BEB4-1B37EBAEEA91}|kas\u0131m21nesne.csproj|solutionrelative:otomobil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "elektrikliotomobil.cs",
+              "DocumentMoniker": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kas\u0131m21nesne\\elektrikliotomobil.cs",
+              "RelativeDocumentMoniker": "elektrikliotomobil.cs",
+              "ToolTip": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kas\u0131m21nesne\\elektrikliotomobil.cs",
+              "RelativeToolTip": "elektrikliotomobil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:58:46.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "otomobil.cs",
+              "DocumentMoniker": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kas\u0131m21nesne\\otomobil.cs",
+              "RelativeDocumentMoniker": "otomobil.cs",
+              "ToolTip": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kas\u0131m21nesne\\otomobil.cs",
+              "RelativeToolTip": "otomobil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:50:06.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "arac.cs",
+              "DocumentMoniker": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kas\u0131m21nesne\\arac.cs",
+              "RelativeDocumentMoniker": "arac.cs",
+              "ToolTip": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kas\u0131m21nesne\\arac.cs",
+              "RelativeToolTip": "arac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:49:30.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kas\u0131m21nesne\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emine Hatun Din\u00E7er\\source\\repos\\kas\u0131m21nesne\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:48:23.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

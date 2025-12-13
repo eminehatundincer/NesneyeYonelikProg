@@ -1,0 +1,8 @@
+C:\Users\Emine Hatun Dinçer\source\repos\nesneilkhafta\bin\Debug\nesneilkhafta.exe.config
+C:\Users\Emine Hatun Dinçer\source\repos\nesneilkhafta\bin\Debug\nesneilkhafta.exe
+C:\Users\Emine Hatun Dinçer\source\repos\nesneilkhafta\bin\Debug\nesneilkhafta.pdb
+C:\Users\Emine Hatun Dinçer\source\repos\nesneilkhafta\obj\Debug\nesneilkhafta.csproj.AssemblyReference.cache
+C:\Users\Emine Hatun Dinçer\source\repos\nesneilkhafta\obj\Debug\nesneilkhafta.csproj.CoreCompileInputs.cache
+C:\Users\Emine Hatun Dinçer\source\repos\nesneilkhafta\obj\Debug\nesneilkhafta.exe
+C:\Users\Emine Hatun Dinçer\source\repos\nesneilkhafta\obj\Debug\nesneilkhafta.pdb
+C:\Users\Emine Hatun Dinçer\source\repos\nesneilkhafta\obj\Debug\nesneilkhafta.exe.config

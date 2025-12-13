@@ -1,0 +1,8 @@
+C:\Users\Emine Hatun Dinçer\source\repos\Nesnehafta4\obj\Debug\Nesnehafta4.csproj.AssemblyReference.cache
+C:\Users\Emine Hatun Dinçer\source\repos\Nesnehafta4\obj\Debug\Nesnehafta4.csproj.CoreCompileInputs.cache
+C:\Users\Emine Hatun Dinçer\source\repos\Nesnehafta4\bin\Debug\Nesnehafta4.exe.config
+C:\Users\Emine Hatun Dinçer\source\repos\Nesnehafta4\bin\Debug\Nesnehafta4.exe
+C:\Users\Emine Hatun Dinçer\source\repos\Nesnehafta4\bin\Debug\Nesnehafta4.pdb
+C:\Users\Emine Hatun Dinçer\source\repos\Nesnehafta4\obj\Debug\Nesnehafta4.exe
+C:\Users\Emine Hatun Dinçer\source\repos\Nesnehafta4\obj\Debug\Nesnehafta4.pdb
+C:\Users\Emine Hatun Dinçer\source\repos\Nesnehafta4\obj\Debug\Nesnehafta4.exe.config

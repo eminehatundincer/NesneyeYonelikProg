@@ -1,0 +1,7 @@
+C:\Users\Emine Hatun Dinçer\source\repos\otomobil\obj\Debug\otomobil.csproj.AssemblyReference.cache
+C:\Users\Emine Hatun Dinçer\source\repos\otomobil\obj\Debug\otomobil.csproj.CoreCompileInputs.cache
+C:\Users\Emine Hatun Dinçer\source\repos\otomobil\bin\Debug\otomobil.exe.config
+C:\Users\Emine Hatun Dinçer\source\repos\otomobil\bin\Debug\otomobil.exe
+C:\Users\Emine Hatun Dinçer\source\repos\otomobil\bin\Debug\otomobil.pdb
+C:\Users\Emine Hatun Dinçer\source\repos\otomobil\obj\Debug\otomobil.exe
+C:\Users\Emine Hatun Dinçer\source\repos\otomobil\obj\Debug\otomobil.pdb

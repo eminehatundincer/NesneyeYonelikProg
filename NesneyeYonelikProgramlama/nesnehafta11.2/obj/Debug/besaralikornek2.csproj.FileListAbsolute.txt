@@ -1,0 +1,7 @@
+C:\Users\Emine Hatun Dinçer\source\repos\besaralikornek2\bin\Debug\besaralikornek2.exe.config
+C:\Users\Emine Hatun Dinçer\source\repos\besaralikornek2\bin\Debug\besaralikornek2.exe
+C:\Users\Emine Hatun Dinçer\source\repos\besaralikornek2\bin\Debug\besaralikornek2.pdb
+C:\Users\Emine Hatun Dinçer\source\repos\besaralikornek2\obj\Debug\besaralikornek2.csproj.AssemblyReference.cache
+C:\Users\Emine Hatun Dinçer\source\repos\besaralikornek2\obj\Debug\besaralikornek2.csproj.CoreCompileInputs.cache
+C:\Users\Emine Hatun Dinçer\source\repos\besaralikornek2\obj\Debug\besaralikornek2.exe
+C:\Users\Emine Hatun Dinçer\source\repos\besaralikornek2\obj\Debug\besaralikornek2.pdb

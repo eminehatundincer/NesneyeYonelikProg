@@ -1,0 +1,8 @@
+C:\Users\Emine Hatun Dinçer\source\repos\besaraliknesneyeyonelik\bin\Debug\besaraliknesneyeyonelik.exe.config
+C:\Users\Emine Hatun Dinçer\source\repos\besaraliknesneyeyonelik\bin\Debug\besaraliknesneyeyonelik.exe
+C:\Users\Emine Hatun Dinçer\source\repos\besaraliknesneyeyonelik\bin\Debug\besaraliknesneyeyonelik.pdb
+C:\Users\Emine Hatun Dinçer\source\repos\besaraliknesneyeyonelik\obj\Debug\besaraliknesneyeyonelik.csproj.AssemblyReference.cache
+C:\Users\Emine Hatun Dinçer\source\repos\besaraliknesneyeyonelik\obj\Debug\besaraliknesneyeyonelik.csproj.CoreCompileInputs.cache
+C:\Users\Emine Hatun Dinçer\source\repos\besaraliknesneyeyonelik\obj\Debug\besaraliknesneyeyonelik.exe
+C:\Users\Emine Hatun Dinçer\source\repos\besaraliknesneyeyonelik\obj\Debug\besaraliknesneyeyonelik.pdb
+C:\Users\Emine Hatun Dinçer\source\repos\besaraliknesneyeyonelik\obj\Debug\besaraliknesneyeyonelik.exe.config

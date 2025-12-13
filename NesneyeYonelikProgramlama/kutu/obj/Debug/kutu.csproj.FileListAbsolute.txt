@@ -1,0 +1,7 @@
+C:\Users\Emine Hatun Dinçer\source\repos\kutu\bin\Debug\kutu.exe.config
+C:\Users\Emine Hatun Dinçer\source\repos\kutu\bin\Debug\kutu.exe
+C:\Users\Emine Hatun Dinçer\source\repos\kutu\bin\Debug\kutu.pdb
+C:\Users\Emine Hatun Dinçer\source\repos\kutu\obj\Debug\kutu.csproj.AssemblyReference.cache
+C:\Users\Emine Hatun Dinçer\source\repos\kutu\obj\Debug\kutu.csproj.CoreCompileInputs.cache
+C:\Users\Emine Hatun Dinçer\source\repos\kutu\obj\Debug\kutu.exe
+C:\Users\Emine Hatun Dinçer\source\repos\kutu\obj\Debug\kutu.pdb

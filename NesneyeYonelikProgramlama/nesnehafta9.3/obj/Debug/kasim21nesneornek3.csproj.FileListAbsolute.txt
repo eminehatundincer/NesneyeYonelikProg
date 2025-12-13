@@ -1,0 +1,2 @@
+C:\Users\Emine Hatun Dinçer\source\repos\kasim21nesneornek3\obj\Debug\kasim21nesneornek3.csproj.AssemblyReference.cache
+C:\Users\Emine Hatun Dinçer\source\repos\kasim21nesneornek3\obj\Debug\kasim21nesneornek3.csproj.CoreCompileInputs.cache
