@@ -41,7 +41,7 @@ namespace besaraliknesneyeyonelik
                 /*PersonelListesi.Add(new personel());
                 PersonelListesi[i].ad = "Emine";
                 PersonelListesi[i].soyad = "Dinçer";
-                PersonelListesi[i].maas = 1000;*/
+                PersonelListesi[i].maas = 1000;*/ }
 
                 string girilenAd;
                 string girilenSoyad;
@@ -55,7 +55,7 @@ namespace besaraliknesneyeyonelik
                 girilenMaas = Convert.ToInt32(Console.ReadLine()); //int.Parse(Console.ReadLine());
 
                 PersonelListesi.Add(new personel { ad = girilenAd, soyad = girilenSoyad, maas = girilenMaas});
-            }
+            
             Console.WriteLine("===============Personel Listesi=================");
 
              foreach (personel p in PersonelListesi)
