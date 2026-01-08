@@ -10,7 +10,7 @@ namespace besaraliknesneyeyonelik
     {
         static void Main(string[] args)
         {
-           /* List<string> isimListesi = new List<string>();
+            List<string> isimListesi = new List<string>();
             isimListesi.Add("Arda");
             isimListesi.Add("Büşra");
             isimListesi.Add("Cem");
