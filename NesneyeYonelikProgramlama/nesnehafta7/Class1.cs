@@ -8,8 +8,9 @@ namespace ConsoleApp7
 {
     internal class Class1
     {
-        //private string sicilNo;
+       /* private string sicilNo;
         public int yetkiID;
+        
         public string sicilNo
         {
             get
@@ -25,7 +26,7 @@ namespace ConsoleApp7
 
 
                     }
-                }
+                }*/
 
         private string OgrAd;
         private string OgrSoyad;
@@ -34,7 +35,7 @@ namespace ConsoleApp7
 
 
         //kurucu metotları çalıştırıyoruz
-        public ogrenci()
+        public ogrenci() //class ismiyle aynı isimde olmak zorunda classın ismini public class ogrenci{} olarak düşün
         {
             Console.WriteLine("Kurucu Metot Çalıştı.");
         }
