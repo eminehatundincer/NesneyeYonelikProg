@@ -16,7 +16,7 @@ namespace calisma7kasim
               Console.WriteLine(kelime); // kelimeyi ekrana yazdırıyoruz
             */
 
-            /*andom rnd = new Random();
+            /*Random rnd = new Random();
              int a = rnd.Next(10); //0-9 arası sayılardan atar
              int b;
              int c = 1;
